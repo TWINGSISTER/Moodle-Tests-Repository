@@ -1,0 +1,1 @@
+dir/b/o:n Originals\*.ggb >filelist.txt
