@@ -1,0 +1,26 @@
+<1>module_distance_T5_751x304</>
+<2>sqrt(5)</>
+<3>Nouvel énoncé</>
+<4>Juste</>
+<5>Faux</>
+<6>Voir la solution</>
+<7>RAZ (�&nbsp cacher )</>
+<8>Dernier exercice de la série</>
+<9>Commencer la série d'exercices</>
+<10>Avant de valider votre réponse simplifiez votre racine carrée</>
+<11>Mathématiques �&nbsp Valin</>
+<12>Module d'un nombre complexe et distance entre deux points du plan complexe.</>
+<13>La fonction sqrt( ) permet de saisir les racines</>
+<14>carrées. Exemple: 2 sqrt(3) pour</>
+<15>1</>
+<16>Score :</>
+<17>1</>
+<18>Voici la solution détaillée:</>
+<19>A est le point d'affixe</>
+<20>1</>
+<21>1</>
+<22>B est le point d'affixe</>
+<23>1</>
+<24>et C est le point d'affixe</>
+<25>1</>
+<26>Donnez la valeur exacte de la distance</>

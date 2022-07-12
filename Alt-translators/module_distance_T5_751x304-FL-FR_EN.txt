@@ -1,0 +1,27 @@
+<1>distance_module_T5_751x304</>
+<2>sqrt(5)</>
+<3>New statement</>
+<4>Just</>
+<5>False</>
+<6>See solution</>
+<7>Reset (&nbsp hide )</>
+<8>Last exercise of the series</>
+<9>Start exercise series</>
+<10>Before validating your answer simplify your square root</>
+<11>Mathematics at&nbsp Valin</>
+<12>Modulus of a complex number and distance between two points of the complex plane.</>
+<13>The sqrt( ) function is used to enter the roots</>
+<14>squares. Example: 2 sqrt(3) for</>
+<15>1</>
+<16>Score:</>
+<17>1</>
+<18>Here is the detailed solution:</>
+<19>A is the affix point</>
+<20>1</>
+<21>1</>
+<22>B is the affix point</>
+<23>1</>
+<24>and C is the affix point</>
+<25>1</>
+<26>Enter the exact value of the distance</>
+\

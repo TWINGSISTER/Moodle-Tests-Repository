@@ -1,0 +1,45 @@
+<HTML><HEAD><TITLE>%%_1_%%</TITLE></HEAD>
+<BODY>
+<DIV id=trepDmp>
+<DIV id=trep class=noop data-title="sqrt(5)">%%_2_%%</DIV></DIV>
+<DIV id=NewEnonceDmp>
+<DIV id=NewEnonce class=noop data-title="Nouvelénoncé">%%_3_%%</DIV></DIV>
+<DIV id=texteJusteDmp>
+<DIV id=texteJuste class=noop data-title="Juste">%%_4_%%</DIV></DIV>
+<DIV id=texteFauxDmp>
+<DIV id=texteFaux class=noop data-title="Faux">%%_5_%%</DIV></DIV>
+<DIV id=BoutonVoirSolutionDmp>
+<DIV id=BoutonVoirSolution class=noop data-title="Voirlasolution">%%_6_%%</DIV></DIV>
+<DIV id=RAZDmp>
+<DIV id=RAZ class=noop data-title="RAZ(�&nbsp;cacher)">%%_7_%%</DIV></DIV>
+<DIV id=MessageFinDmp>
+<DIV id=MessageFin_textArg1 class=noop data-title="Dernierexercicedelasérie">%%_8_%%</DIV></DIV>
+<DIV id=BoutonCommenceDmp>
+<DIV id=BoutonCommence class=noop data-title="Commencerlaséried'exercices">%%_9_%%</DIV></DIV>
+<DIV id=texte2Dmp>
+<DIV id=texte2 class=noop data-title="Avantdevalidervotreréponsesimplifiezvotreracinecarrée">%%_10_%%</DIV></DIV>
+<DIV id=texte3Dmp>
+<DIV id=texte3 class=noop data-title="Mathématiques�&nbsp;Valin">%%_11_%%</DIV></DIV>
+<DIV id=texte4Dmp>
+<DIV id=texte4 class=noop data-title="Moduled'unnombrecomplexeetdistanceentredeuxpointsduplancomplexe.">%%_12_%%</DIV></DIV>
+<DIV id=texte5Dmp>
+<DIV id=texte5textArg1 class=noop data-title="Lafonctionsqrt()permetdesaisirlesracines">%%_13_%%</DIV>
+<DIV id=texte5_textArg1 class=noop data-title="carrées.Exemple:2sqrt(3)pour">%%_14_%%
+<DIV id=spacer1 class=spacer>%%_15_%%</DIV></DIV></DIV>
+<DIV id=texteScoreREF1Dmp>
+<DIV id=texteScoreREF1 class=noop data-title="Score:">%%_16_%%
+<DIV id=spacer1 class=spacer>%%_17_%%</DIV></DIV></DIV>
+<DIV id=texteSolutionREF1Dmp>
+<DIV id=texteSolutionREF1textArg1 class=noop data-title="Voicilasolutiondétaillée:">%%_18_%%</DIV></DIV>
+<DIV id=texteEnonceREF1Dmp>
+<DIV id=texteEnonceREF1textArg1 class=noop data-title="Aestlepointd'affixe">%%_19_%%
+<DIV id=spacer1 class=spacer>%%_20_%%</DIV></DIV></DIV>
+<DIV id=texteEnonceREF2Dmp>
+<DIV id=texteEnonceREF2textArg1 class=noop data-title="Bestlepointd'affixe">
+<DIV id=spacer1 class=spacer>%%_21_%%</DIV>%%_22_%%
+<DIV id=spacer1 class=spacer>%%_23_%%</DIV></DIV></DIV>
+<DIV id=texteEnonceREF3Dmp>
+<DIV id=texteEnonceREF3textArg1 class=noop data-title="etCestlepointd'affixe">%%_24_%%
+<DIV id=spacer1 class=spacer>%%_25_%%</DIV></DIV></DIV>
+<DIV id=texteEnonceREF4Dmp>
+<DIV id=texteEnonceREF4 class=noop data-title="Donnezlavaleurexactedeladistance">%%_26_%%</DIV></DIV></BODY></HTML>
