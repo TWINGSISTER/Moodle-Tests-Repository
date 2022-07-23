@@ -1,5 +1,5 @@
 # Multilingual Mathematics at Valin Geogebra Files
 In this subfolders you will find multilanguage and report version of Geogebra activities from the 
-collection at [Mathématiques à Valin](http://lycee-valin.fr/maths/exercices_en_ligne/).
+collection at [Mathématiques a Valin](http://lycee-valin.fr/maths/exercices_en_ligne/).
 The author of these Geogebra activities, Joel Gauvain, retain the copyright of the
 translated versions that, therefore, are distribuited here under the CC-BY-NC-ND 3.0 license. These multilingual activities are generate using an automatic translator. [(See this repository)](https://github.com/TWINGSISTER/GeogebraMultilanguageTranslator) and try this package [here](https://twingsister.github.io/GeogebraMultilanguageTranslator/index-private-latest.html). You can give a try to each activity by downloading the GGB file to your computer and use the online version of GGB. You can start with [this example](https://twingsister.github.io/GeogebraMultilanguageTranslator/example.html) and then upload another ggb you have downloaded.
