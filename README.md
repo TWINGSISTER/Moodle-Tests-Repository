@@ -3,7 +3,7 @@ In this project you will find a collection of activities for Moodle.
 These tests can be used with Moodle installing in your Moodle site the plugin for a modified qtype for Geogebra.
 
 This plugin is contained in  the zip that can be downloaded from 
-[this repository](https://github.com/TWINGSISTER/moodle-qtype_geogebra/archive/refs/heads/main.zip).
+[this repository](https://github.com/TWINGSISTER/moodle-qtype_geogebra/archive/refs/heads/twingsisterdev.zip).
 
 In this repository there are files in different formats.
 
