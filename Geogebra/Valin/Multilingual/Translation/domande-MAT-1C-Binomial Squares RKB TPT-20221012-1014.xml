@@ -1,0 +1,1083 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+      <text>$cat1$/top/Factoring Polynomials A.SSE.A.2</text>
+    </category>
+    <info format="html">
+      <text></text>
+    </info>
+  </question>
+
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+      <text>$cat1$/top/Factoring Polynomials A.SSE.A.2/Binomial Squares RKB TPT</text>
+    </category>
+    <info format="moodle_auto_format">
+      <text></text>
+    </info>
+  </question>
+
+<!-- question: 10490  -->
+  <question type="multichoice">
+    <name>
+      <text>( y + x)( y - x)</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-size:12pt">( y + x)( y - x)</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">25y<sup>2 </sup>- 50yx + 25x<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">25y<sup>2 </sup>- 9x<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">y<sup>2 </sup>- x<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">y<sup>2 </sup>+ 2yx + x<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10480  -->
+  <question type="multichoice">
+    <name>
+      <text>(2u + 3v)(2u - 3v)</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-size:12pt">(2u + 3v)(2u - 3v)</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">4u<sup>2 </sup>- 9v<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">v<sup>2 </sup>+ 8vu + 16u<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">9v<sup>2 </sup>- u<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">v<sup>2 </sup>- 16u<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10476  -->
+  <question type="multichoice">
+    <name>
+      <text>(2u - 5v)2</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-size:12pt">(2u - 5v)<sup>2</sup></span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">u<sup>2 </sup>- 25v<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">u<sup>2 </sup>- 10uv + 25v<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">4u<sup>2 </sup>- 20uv + 25v<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">4u<sup>2 </sup>+ 25v<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10487  -->
+  <question type="multichoice">
+    <name>
+      <text>(2x + 2y)(2x - 2y)</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-size:12pt">(2x + 2y)(2x - 2y)</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">25x<sup>2 </sup>- 9y<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">4x<sup>2 </sup>- 4y<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">4x<sup>2 </sup>+ 16xy + 16y<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">4x<sup>2 </sup>+ 8xy + 4y<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10478  -->
+  <question type="multichoice">
+    <name>
+      <text>(2x + 5y)(2x - 5y)</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-size:12pt">(2x + 5y)(2x - 5y)</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">16x<sup>2 </sup>+ 8xy + y<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">4x<sup>2 </sup>- 25y<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">4x<sup>2 </sup>- 20xy + 25y<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">4x<sup>2 </sup>+ 20xy + 25y<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10492  -->
+  <question type="multichoice">
+    <name>
+      <text>(2x - y)(2x + y)</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-size:12pt">(2x - y)(2x + y)</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">9x<sup>2 </sup>- 9y<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">9x<sup>2 </sup>- 18xy + 9y<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">4x<sup>2 </sup>- y<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">4x<sup>2 </sup>- 4xy + y<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10481  -->
+  <question type="multichoice">
+    <name>
+      <text>(2y - 2x)(2y + 2x)</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-size:12pt">(2y - 2x)(2y + 2x)</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">4y<sup>2 </sup>- 8yx + 4x<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">25y<sup>2 </sup>- 50yx + 25x<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">25y<sup>2 </sup>+ 25x<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">4y<sup>2 </sup>- 4x<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10474  -->
+  <question type="multichoice">
+    <name>
+      <text>(3a - 3b)2</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-size:12pt">(3a - 3b)<sup>2</sup></span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">9a<sup>2 </sup>+ 9b<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">4a<sup>2 </sup>+ 20ab + 25b<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">9a<sup>2 </sup>- 9b<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">9a<sup>2 </sup>- 18ab + 9b<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10479  -->
+  <question type="multichoice">
+    <name>
+      <text>(3u - 4v)2</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-size:12pt">(3u - 4v)<sup>2</sup></span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">9u<sup>2 </sup>- 16v<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">u<sup>2 </sup>- 8uv + 16v<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">3u + 16v<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">9u<sup>2 </sup>- 24uv + 16v<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10475  -->
+  <question type="multichoice">
+    <name>
+      <text>(4m - 3n)(4m + 3n)</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-size:12pt">(4m - 3n)(4m + 3n)</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">4m<sup>2 </sup>- 20mn + 25n<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">16m<sup>2 </sup>+ 24mn + 9n<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">4m<sup>2 </sup>- 25n<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">16m<sup>2 </sup>- 9n<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10488  -->
+  <question type="multichoice">
+    <name>
+      <text>(4u - 3v)(4u + 3v)</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-size:12pt">(4u - 3v)(4u + 3v)</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">16v<sup>2 </sup>- 24vu + 9u<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">16u<sup>2 </sup>- 9v<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">16v<sup>2 </sup>- 9u<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">16v<sup>2 </sup>+ 24vu + 9u<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10482  -->
+  <question type="multichoice">
+    <name>
+      <text>(4x - 5y)(4x + 5y)</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-size:12pt">(4x - 5y)(4x + 5y)</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">16x<sup>2 </sup>- 25y<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">16y<sup>2 </sup>+ 24yx + 9x<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">16x<sup>2 </sup>- 40xy + 25y<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">16y<sup>2 </sup>- 9x<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10485  -->
+  <question type="multichoice">
+    <name>
+      <text>(4x - 5y)(4x + 5y)</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-size:12pt">(4x - 5y)(4x + 5y)</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">16x<sup>2 </sup>- 9y<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">16x<sup>2 </sup>- 40xy + 25y<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">16x<sup>2 </sup>+ 24xy + 9y<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">16x<sup>2 </sup>- 25y<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10477  -->
+  <question type="multichoice">
+    <name>
+      <text>(5a - 5b)2</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-size:12pt">(5a - 5b)<sup>2</sup></span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">25a<sup>2 </sup>- 25b<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">4a<sup>2 </sup>- 12ab + 9b<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">25a<sup>2 </sup>+ 25b<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">25a<sup>2 </sup>- 50ab + 25b<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10483  -->
+  <question type="multichoice">
+    <name>
+      <text>(5m + n)(5m - n)</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-size:12pt">(5m + n)(5m - n)</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">25m<sup>2 </sup>- n<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">m<sup>2 </sup>- n<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">25m<sup>2 </sup>+ 10mn + n<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">m<sup>2 </sup>- 2mn + n<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10484  -->
+  <question type="multichoice">
+    <name>
+      <text>(5y + 5x)(5y - 5x)</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-size:12pt">(5y + 5x)(5y - 5x)</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">16y<sup>2 </sup>- 25x<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">25y<sup>2 </sup>- 50yx + 25x<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">y<sup>2 </sup>- 25x<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">25y<sup>2 </sup>- 25x<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10491  -->
+  <question type="multichoice">
+    <name>
+      <text>(m + 4n)(m - 4n)</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-size:12pt">(m + 4n)(m - 4n)</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">25m<sup>2 </sup>- 16n<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">m<sup>2 </sup>+ 8mn + 16n<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">25m<sup>2 </sup>- 40mn + 16n<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">m<sup>2 </sup>- 16n<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10489  -->
+  <question type="multichoice">
+    <name>
+      <text>(n - 4m)(n + 4m)</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-size:12pt">(n - 4m)(n + 4m)</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">25m<sup>2 </sup>- 16n<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">4m<sup>2 </sup>- n<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">n<sup>2 </sup>- 8nm + 16m<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">n<sup>2 </sup>- 16m<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10473  -->
+  <question type="multichoice">
+    <name>
+      <text>(u + v)2</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-size:12pt">(u + v)<sup>2</sup></span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">4v<sup>2 </sup>- 4u<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">4v<sup>2 </sup>- 25u<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">u<sup>2 </sup>+ 2uv + v<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">u<sup>2 </sup>+ v<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10486  -->
+  <question type="multichoice">
+    <name>
+      <text>(u - 2v)(u + 2v)</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-size:12pt">(u - 2v)(u + 2v)</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">u<sup>2 </sup>- 4uv + 4v<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">u<sup>2 </sup>- 4v<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">16u<sup>2 </sup>- 9v<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">16u<sup>2 </sup>+ 24uv + 9v<sup>2</sup></span>]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+  </question>
+
+</quiz>
