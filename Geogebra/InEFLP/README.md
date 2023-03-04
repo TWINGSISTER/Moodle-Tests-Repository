@@ -1,0 +1,5 @@
+# Multilingual Mathematics at Valin Geogebra Files
+In this subfolders you will find multilanguage and report version of Geogebra activities from the 
+collection authored by [(InEFLP), IREM de Marseille and IREM TICE (C2iT)](https://www.geogebra.org/m/d4GKJwmq). 
+The authors of these Geogebra activities [(see the site here)](https://irem.univ-amu.fr/fr/groupes-travail/groupe-travail-innovation-experimentation-formation-lp) retain the copyright of the
+translated versions that, therefore, are distribuited here under the CC-BY-NC-ND 3.0 license. These multilingual activities are generate using an automatic translator. [(See this repository)](https://github.com/TWINGSISTER/GeogebraMultilanguageTranslator) and try this package [here](https://twingsister.github.io/GeogebraMultilanguageTranslator/index-private-latest.html). You can give a try to each activity by downloading the GGB file to your computer and use the online version of GGB. You can start with [this example](https://twingsister.github.io/GeogebraMultilanguageTranslator/example.html) and then upload another ggb you have downloaded.
