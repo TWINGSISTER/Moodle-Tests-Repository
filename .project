@@ -8,4 +8,11 @@
 	</buildSpec>
 	<natures>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>Geogebra/Valin/snap-one</name>
+			<type>2</type>
+			<location>P:/workspace-eclipse/Moodle-Tests-Repository/Geogebra/Valin/snap-one</location>
+		</link>
+	</linkedResources>
 </projectDescription>
