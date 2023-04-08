@@ -1,5 +1,7 @@
-# Multilingual Mathematics at Valin Geogebra Files
+# Multilingual Mathematics at Valin Geogebra Files (VGF)
 In this subfolders you will find multilanguage and report version of Geogebra activities from the 
 collection at [Mathematiques a Valin](http://lycee-valin.fr/maths/exercices_en_ligne/).
 The author of these Geogebra activities, Joel Gauvain, retain the copyright of the
 translated versions that, therefore, are distribuited here under the CC-BY-NC-ND 3.0 license. These multilingual activities are generate using an automatic translator. [(See this repository)](https://github.com/TWINGSISTER/GeogebraMultilanguageTranslator) and try this package [here](https://twingsister.github.io/GeogebraMultilanguageTranslator/index-private-latest.html). You can give a try to each activity by downloading the GGB file to your computer and use the online version of GGB. You can start with [this example](https://twingsister.github.io/GeogebraMultilanguageTranslator/example.html) and then upload another ggb you have downloaded.
+
+Note that the activities in VGF very often come from a multi-question randomly generated activity that have been chopped down to single-question randomly generated activity. Thus, in the beginning of these tests, there is an introductory text that is repeated every time. This could be boring but you just have to click a "start" button to skip it. An awkward aspect of this organization is that the "start" button is used to trigger the randomization and after that the focus remains on that "start" button that disappear. Therefore the user can press SPACE and obtain another random copy of the exercise.  
