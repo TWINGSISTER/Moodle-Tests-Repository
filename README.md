@@ -1,5 +1,6 @@
 # Moodle Tests Repository
-In this project you will find a collection of activities for Moodle. 
+In this repo you will find a collection of activities for Moodle. 
+
 These tests can be used with Moodle installing in your Moodle site the plugin for a modified qtype for Geogebra.
 
 This plugin is contained in  the zip that can be downloaded from 
