@@ -13,7 +13,10 @@ The files in the mbz format can be restored within any Moodle 4.0 site.
 The files with the .ggb extension can be used in any Geogebra question either downloading the .ggb file locally and 
 dragging it into the quiz or linking the file from GitHub using the URL of the corresponding ggb file in the GitHub pages.
 
+#Referencing a .ggb
 For instance use the URL  e.g. https://twingsister.github.io/Moodle-Tests-Repository/Geogebra/Valin/1_Multilingual/1_Reperage_plan_693x530-FLEN-FR-IT.ggb to use the ggb in the repository file at "/Geogebra/Valin/1_Multilingual/1_Reperage_plan_693x530-FLEN-FR-IT.ggb"  
+The repository has a copy on Bitbucket so you can use this URL, too,
+https://bitbucket.org/twingsister/moodle-tests-repository/raw/master/Geogebra/Valin/snap-one/Translations/Equation_de_droite_T_906x680-one-FLEN-FR-IT.ggb
 
 #Create a .ggb for a quiz
 To adapt a GGB activity to this scheme there are some scripts that can help. You can find them in [this repository](https://github.com/TWINGSISTER/GeogebraMultilanguageTranslator). In this repo you can find [three services](https://twingsister.github.io/GeogebraMultilanguageTranslator) that will help to convert your .ggb in an activity similar to those listed here.
