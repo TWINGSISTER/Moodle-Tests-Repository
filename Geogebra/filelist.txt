@@ -1,0 +1,186 @@
+
+ Directory of P:\workspace-eclipse\Moodle-Tests-Repository\Geogebra\Gmath\Originals
+
+14/04/2023  10:05            35.093 material-HFDmBFuN-quiz-equation-straight-line.ggb
+16/04/2023  22:31            41.208 material-HFDmBFuN-quiz-equation-straight-lineREV-one.ggb
+20/04/2023  11:05           133.969 material-mgnbenra-Quiz-on-Slope-(1)REV-one.ggb
+17/04/2023  19:04            25.806 Quiz on Slope (2)-material-Y3nmC4dy.ggb
+17/04/2023  19:17            12.081 Quiz on Slope (2)-material-Y3nmC4dyREV-one.ggb
+17/04/2023  19:07            15.977 Quiz on Slope (3)-material-zfF4xDMB.ggb
+17/04/2023  19:24            10.502 Quiz on Slope (3)-material-zfF4xDMBREV-one.ggb
+17/04/2023  14:03            79.044 Quiz on Slope of Parallel Lines and Perpendicular Lines-material-XBTU21vE-one.ggb
+17/04/2023  13:15            18.460 Quiz on Slope of Parallel Lines and Perpendicular Lines-material-XBTU21vE.ggb
+               9 File(s)        372.140 bytes
+
+
+ Directory of P:\workspace-eclipse\Moodle-Tests-Repository\Geogebra\InEFLP\Originals
+
+11/04/2023  23:46            11.840 material-hnueacxk-Determiner-les-parametres-dune-droite-10-questions.ggb
+04/03/2023  13:32            31.331 material-s7etu9gr-Determiner-la-formule-fonction-dapres-sa-representation-10-questions.ggb
+               2 File(s)         43.171 bytes
+
+Directory of P:\workspace-eclipse\Moodle-Tests-Repository\Geogebra\TimBrzezinski\Originals
+
+17/04/2023  19:49            13.189 4Q Quiz Identifying Slope and y-intercept-material-e8nc3s4y.ggb
+17/04/2023  22:20            18.902 4Q Quiz Identifying Slope and y-intercept-material-e8nc3s4yREV-one.ggb
+17/04/2023  20:47            29.118 Solving Linear Systems by Graphing REVAMPED-material-vyxxahhq.ggb
+               3 File(s)         61.209 bytes
+
+ Directory of P:\workspace-eclipse\Moodle-Tests-Repository\Geogebra\Valin\Originals
+
+02/02/2023  11:05            28.003 1_Calcul_distance_milieu_T5_719x464REV_Type2.ggb
+02/02/2023  11:11            28.973 1_Calcul_distance_milieu_T5_719x464REV_Type3.ggb
+06/12/2016  18:25            33.829 arbre_probabiliste1_T2_980x618 - Copy.ggb
+06/12/2016  18:25            33.829 arbre_probabiliste1_T2_980x618.ggb
+06/12/2016  18:25            33.278 arbre_probabiliste2_T2_980x618.ggb
+16/11/2016  22:46            14.964 argumentcomplexe1_T10_753x660.ggb
+28/05/2022  12:27            23.402 argumentcomplexe2_T10_754x368.ggb
+16/11/2016  22:46            16.240 argumentcomplexe3T10_717x369.ggb
+16/11/2016  22:46            18.624 argumentcomplexe4_T10_885x609.ggb
+07/11/2016  20:34            11.525 Cacul_algebrique_Base1_T10_570x300.ggb
+07/11/2016  20:34            11.525 Cacul_algebrique_Base1_T20_570x300.ggb
+07/11/2016  18:07            11.523 Cacul_algebrique_Base1_T5_570x300.ggb
+07/11/2016  18:06            16.965 Calculer_CM_et_taux_T10_605x351.ggb
+07/11/2016  18:06            16.966 Calculer_CM_et_taux_T5_605x351.ggb
+07/11/2016  20:34            11.449 Calcul_algebrique_Base2_T10_629x340.ggb
+07/11/2016  20:34            11.450 Calcul_algebrique_Base2_T20_629x340.ggb
+07/11/2016  20:34            11.452 Calcul_algebrique_Base2_T5_629x340.ggb
+07/11/2016  20:34            11.561 Calcul_algebrique_Base3_T10_641x400.ggb
+07/11/2016  20:34            11.564 Calcul_algebrique_Base3_T20_641x400.ggb
+07/11/2016  20:34            11.564 Calcul_algebrique_Base3_T5_641x400.ggb
+07/11/2016  20:34            12.172 Calcul_algebrique_Base4_T10_664x430.ggb
+07/11/2016  20:34            12.173 Calcul_algebrique_Base4_T20_664x430.ggb
+07/11/2016  20:34            12.173 Calcul_algebrique_Base4_T5_664x430.ggb
+05/11/2016  16:10            18.961 Calcul_distance_milieu_T10_719x464.ggb
+02/02/2023  10:30            34.175 Calcul_distance_milieu_T5_719x464REV.ggb
+02/02/2023  10:54            27.430 Calcul_distance_milieu_T5_719x464REV_Type1.ggb
+02/02/2023  10:49            28.077 Calcul_distance_milieu_T5_719x464REV_Type2.ggb
+02/02/2023  10:59            29.089 Calcul_distance_milieu_T5_719x464REV_Type3.ggb
+07/11/2016  18:06             9.031 Calcul_d_integrales_T_810x336.ggb
+08/06/2018  09:37            15.898 Calcul_loi_binomiale_T10_612x281.ggb
+08/06/2018  09:37            15.946 Calcul_loi_binomiale_T15_612x281.ggb
+08/06/2018  09:37            15.910 Calcul_loi_binomiale_T5_612x281.ggb
+07/11/2016  20:34             9.132 Calcul_Numerique1_T10_663x350.ggb
+07/11/2016  20:34             9.132 Calcul_Numerique1_T5_663x350.ggb
+07/11/2016  20:34             9.553 Calcul_Numerique2_T10_663x356.ggb
+07/11/2016  20:34             9.535 Calcul_Numerique2_T5_663x356.ggb
+07/11/2016  18:06            14.785 Calcul_Vf_Vi_T10_566x330.ggb
+07/11/2016  18:06            14.785 Calcul_Vf_Vi_T5_566x330.ggb
+16/02/2023  12:06            27.604 Colinaire_Points_AlignesT5_771x484REV.ggb
+09/01/2017  17:38            12.353 Coordonnees_vecteurs_T_730x466.ggb
+07/11/2016  18:06            11.341 Cosinus_Sinus_T10_675x518.ggb
+07/11/2016  18:06            11.342 Cosinus_Sinus_T20_675x518.ggb
+07/11/2016  18:07            13.420 Decompo_ft_homo_T3_952x575.ggb
+07/11/2016  18:07            13.437 Decompo_ft_homo_T5_952x575.ggb
+07/11/2016  18:06             9.820 DeriveeQuotient_T10_775x485.ggb
+07/11/2016  18:06             9.820 DeriveeQuotient_T5_775x485.ggb
+07/11/2016  18:06            11.544 Derivee_composee_T_800x410.ggb
+08/11/2016  12:57            18.327 Derivee_Racine_u_T5_760x540.ggb
+07/11/2016  18:07            12.379 Developpement_carre1_T10_962x275.ggb
+07/11/2016  18:07            12.381 Developpement_carre1_T5_962x275.ggb
+11/12/2016  10:16            10.794 Developpement_carre_T5_699x314.ggb
+11/12/2016  10:16            10.793 Developpement_carre_T_699x314.ggb
+07/11/2016  18:07            14.659 Developpement_produit_T5_670x335.ggb
+07/11/2016  18:07            14.660 Developpement_produit_T_670x335.ggb
+28/02/2023  22:07            36.111 distanceAB_T5_701x688REV.ggb
+07/11/2016  18:07            18.288 ensembles_nombresT10_805x385.ggb
+07/11/2016  18:07            18.291 ensembles_nombresT20_805x385.ggb
+07/11/2016  18:06            10.690 Equations_complexes0_T2_656x517.ggb
+07/11/2016  18:06            10.717 Equations_complexes0_T5_656x517.ggb
+12/11/2016  10:09            22.175 Equations_complexes_T10_823x485.ggb
+12/11/2016  10:09            23.269 Equations_complexes_T5_823x485.ggb
+07/11/2016  18:06            12.803 Equation_complexe2_T2_578x462.ggb
+07/11/2016  18:06            12.800 Equation_complexe2_T5_578x462.ggb
+29/06/2022  11:07            25.609 Equation_degre2_T10REV2_699x348.ggb
+08/11/2016  12:11             9.381 Equation_de_droite_T10_906x680.ggb
+07/11/2016  18:07             9.382 Equation_de_droite_T5_906x680.ggb
+07/11/2016  18:07             9.374 Equation_de_droite_T_906x680.ggb
+30/11/2016  16:00            13.843 Factorisation0_T10_688x265.ggb
+30/11/2016  16:00            13.843 Factorisation0_T5_688x265.ggb
+07/11/2016  18:07            14.596 Factorisation1_T10_741x421.ggb
+07/11/2016  18:07            14.595 Factorisation1_T5_741x421.ggb
+07/11/2016  18:07            14.370 Factorisation_a2-b2_T_771x415.ggb
+05/07/2022  09:57            26.713 Factorisation_a_poursuivre_T10REV_607x537.ggb
+05/07/2022  09:49            24.933 Factorisation_a_poursuivre_T5REV_607x537.ggb
+07/11/2016  20:34            14.508 Factorisation_de_a2+2abx+b2_T5_640x284.ggb
+07/11/2016  20:34            14.512 Factorisation_de_a2+2abx+b2_T_640x284.ggb
+07/11/2016  18:07            16.943 Factorise_canonique_T_666x425.ggb
+07/03/2017  12:44            11.571 Forme_canonique0_T10_669x332.ggb
+07/03/2017  12:44            11.571 Forme_canonique0_T5_669x332.ggb
+06/03/2017  17:21            11.615 Forme_canonique_T5_669x332.ggb
+06/03/2017  17:22            11.615 Forme_canonique_T_669x332.ggb
+15/04/2021  16:27            63.616 ineqTrigoCercle_T10_867x371.ggb
+15/04/2021  16:21            62.746 ineqTrigoCercle_T5_867x371.ggb
+16/03/2017  21:07            19.872 Inequation3facteurs_T_840x553.ggb
+21/11/2016  19:05            21.203 Inequations_graphique_T10_819x671.ggb
+07/11/2016  20:34            11.323 inequations_intervalles0_T10_881x625.ggb
+07/11/2016  20:34            11.333 inequations_intervalles0_T5_881x625.ggb
+07/11/2016  20:34            11.467 inequations_intervalles_T10_881x625.ggb
+07/11/2016  20:34            11.492 inequations_intervalles_T5_881x625.ggb
+12/11/2016  17:00            16.334 inequations_trigo2_T10_801x322.ggb
+12/11/2016  17:00            16.334 inequations_trigo2_T5_801x322.ggb
+15/04/2021  10:42            63.905 inequations_trigoT10_801x322.ggb
+10/11/2016  00:08            12.683 inequations_trigoT5_801x322.ggb
+01/12/2016  22:54            13.363 Inequation_kxn_T5_665x497.ggb
+07/11/2016  18:06            31.193 Inequation_second_degre_T10_896x723.ggb
+07/11/2016  18:06            31.189 Inequation_second_degre_T5_896x723.ggb
+12/04/2023  22:33            50.471 Intersection_2_droites_REVT5_940x759.ggb
+12/03/2017  15:28            19.196 Intersection_2_droites_T5_940x759.ggb
+27/02/2023  23:12            56.128 Lecture_coordonnees_vecteurT10_734x671.ggb
+07/11/2016  18:07            15.454 Lecture_equation_droite2_T_907x634.ggb
+07/11/2016  18:07            15.220 Lecture_equation_droite_T10_907x634.ggb
+07/11/2016  18:07            15.219 Lecture_equation_droite_T5_907x634.ggb
+07/11/2016  18:07            15.218 Lecture_equation_droite_T_907x634.ggb
+05/10/2016  21:06            86.654 Limites_graphique2T10_1116x629.ggb
+05/10/2016  21:06            28.503 Limites_graphique3T6_926x648.ggb
+06/10/2016  14:06            84.068 Limites_graphiqueT10_1134x630.ggb
+07/11/2016  18:06            13.536 LoiNormale_T10_807x278.ggb
+24/12/2016  15:25            12.936 module_distance_T5_751x304.ggb
+01/01/2017  20:32            41.684 nombre_derive_tangente_T10_949x652.ggb
+01/01/2017  20:32            43.467 nombre_derive_tangente_T20_949x652.ggb
+04/04/2017  19:35            24.738 Operations_Fractions_T10_637x276.ggb
+04/04/2017  19:35            24.739 Operations_Fractions_T20_637x276.ggb
+30/03/2017  19:26            24.289 Parabole_Lecture2_T10_1028x639.ggb
+30/03/2017  19:26            24.291 Parabole_Lecture2_T5_1028x639.ggb
+30/03/2017  19:26            25.744 Parabole_Lecture3_T10_1027x636.ggb
+30/03/2017  19:26            25.915 Parabole_Lecture3_T5_1027x636.ggb
+21/07/2022  08:57            25.797 Parabole_Lecture4_T10REV_1028x639.ggb
+30/03/2017  19:26            25.618 Parabole_Lecture4_T10_1028x639.ggb
+20/07/2022  23:32            79.690 Parabole_Lecture4_T5REV_1028x639.ggb
+30/03/2017  19:26            25.669 Parabole_Lecture4_T5_1028x639.ggb
+30/03/2017  19:26            23.963 Parabole_Lecture_T10_1053x650.ggb
+30/03/2017  19:26            23.965 Parabole_Lecture_T5_1053x650.ggb
+01/03/2023  00:05            20.720 Produit_d_un_vecteur_par_un_reel_2_T10_753x796REV.ggb
+28/02/2023  23:58            21.910 Produit_d_un_vecteur_par_un_reel_T10_727x704REV.ggb
+18/06/2022  11:48            56.651 Produit_Quotient_dansC_TR10_740x766.ggb
+07/11/2016  20:34            26.702 Puissance2_T10_787x425.ggb
+07/11/2016  20:34            26.701 Puissance2_T5_787x425.ggb
+07/11/2016  20:34            12.662 Puissance_T_10_1020x410.ggb
+07/11/2016  20:34            12.662 Puissance_T_20_1020x410.ggb
+07/11/2016  18:06            10.488 QuotientComplexeVari_T10_604x455.ggb
+07/11/2016  18:06            10.489 QuotientComplexeVari_T5_604x455.ggb
+07/11/2016  18:06            13.332 Quotient_complexe_T10_919x355.ggb
+07/11/2016  18:06            13.336 Quotient_complexe_T5_919x355.ggb
+07/11/2016  18:06            17.537 Reduction_meme_den0_T_941x374.ggb
+07/11/2016  18:07            15.925 Reperage_plan_Lecture_T10_692x527.ggb
+07/11/2016  18:07            15.926 Reperage_plan_Lecture_T5_692x527.ggb
+07/11/2016  18:07            15.772 Reperage_plan_T10_693x530.ggb
+07/11/2016  18:07            15.769 Reperage_plan_T5_693x530.ggb
+26/06/2022  19:29            20.506 R‚solution d'in‚quationsT10_757x490REV.ggb
+26/06/2022  19:24            22.039 R‚solution d'in‚quationsT5_757x490REV.ggb
+26/06/2022  20:40            37.810 Simplification_puissances_T10_787x425REV.ggb
+26/06/2022  20:36            39.707 Simplification_puissances_T5_787x425REV.ggb
+07/11/2016  18:06            20.753 Sinus_cosinus_T10_798x538.ggb
+07/11/2016  18:06            20.751 Sinus_cosinus_T5_798x538.ggb
+04/01/2017  16:39            12.241 sommevecteurs_T5_818x598.ggb
+07/11/2016  18:06             9.009 Somme_suite_arithmetique_T10_553x503.ggb
+07/11/2016  18:06             9.010 Somme_suite_arithmetique_T5_553x503.ggb
+07/11/2016  18:06            11.844 Statistiques_T3_892x298.ggb
+07/11/2016  18:06            17.194 Suite_arithmetique_T5_568x538.ggb
+07/11/2016  18:06             9.412 suite_geometrique_T10_549x481.ggb
+07/11/2016  18:06             9.415 suite_geometrique_T5_549x481.ggb
+19/10/2016  19:14            30.669 Trigo_Enroulement_T10_1104x460.ggb
+15/04/2021  18:33            51.595 Trinome_factorise1_T5_1030x569.ggb
+15/04/2021  18:49            54.285 Trinome_factorise2_T5_1030x569.ggb
+             154 File(s)      3.248.482 bytes
+
