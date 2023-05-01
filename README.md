@@ -21,8 +21,11 @@ https://bitbucket.org/twingsister/moodle-tests-repository/raw/master/Geogebra/Va
 #Create a .ggb for a quiz
 To adapt a GGB activity to this scheme there are some scripts that can help. You can find them in [this repository](https://github.com/TWINGSISTER/GeogebraMultilanguageTranslator). In this repo you can find [three services](https://twingsister.github.io/GeogebraMultilanguageTranslator) that will help to convert your .ggb in an activity similar to those listed here.
 #Create a GGB based quiz in Moodle
-To create a quiz in Moodle out of a .ggb file in the Geogebra>Valin>series-one>Translations (for instance from https://twingsister.github.io/Moodle-Tests-Repository/Geogebra/Valin/series-one/Translations/Calcul_distance_milieu_T5_719x464REV_Type3-one-FL.ggb) first restore [this mbz](https://twingsister.github.io/Moodle-Tests-Repository/MoodleiQuiz/backup-moodle2-course-14-tobechanger-20230302-1647-nu-nf.mbz) 
+To create a quiz in Moodle out of a .ggb file in the Geogebra>Valin>series-one>Translations (for instance from https://twingsister.github.io/Moodle-Tests-Repository/Geogebra/Valin/series-one/Translations/Calcul_distance_milieu_T5_719x464REV_Type3-one-FL.ggb) first restore [this mbz](https://twingsister.github.io/Moodle-Tests-Repository/MoodleiQuiz/backup-moodle2-course-14-tobechanged-20230501-1245-nu-nf.mbz) 
 
-This MBZ simply adds a quiz named TENSIXPLUSFOURQUIZ that must be renamed to WHATYOULIKE. Also rename the question bank cathergory "Default for TENSIXPLUSFOURQUIZ" to "Default for WHATYOULIKE"
+This MBZ simply adds two quizzes named TENSIXPLUSFOURQUIZ-TOOL and TENSIXPLUSFOURQUIZ-NOTOOL. 
+One has the GGB toolbar visible the other not.
+You  can keep both or drop one and  rename  them to WHATYOULIKE. Also you MUST rename the question bank cathergories "Default for TENSIXPLUSFOURQUIZ-[NO]TOOL" to "Default for WHATYOULIKE"
 
-This new quiz act as a wrapper around the .ggb with most of what need to be set is already in place. You have to add  the URL of the .ggb as explained before and click the button to reload it. Second check that the Seed is set if needed. Third delete all the questions from the quiz and add them again taking a fresh copy from the question bank. 
+This new quiz act as a wrapper around the .ggb with most of what need to be set is already in place. You have to add  the URL of the .ggb as explained before and click the button to reload it. Second check that the Seed is set if needed.
+If you run into problems delete all the questions from the quiz (not from the question bank!) and add them again taking a fresh copy from the question bank. 
