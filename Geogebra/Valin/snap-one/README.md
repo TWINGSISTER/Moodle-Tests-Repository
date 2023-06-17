@@ -1,3 +1,3 @@
 # Moodle Tests Repository OSA with inline solutions snapshots
 In this project you will find a collection of activities for Moodle derived from the original Valin activities by imposing a single response in each activity. This integrates better with Moodle reporting system. The student's response is recorded in a GGB image that is pasted to the screen. These activities are generated [with this tool](https://twingsister.github.io/GeogebraMultilanguageTranslator/index-private-latest-OSA-snap.html). In the translation 
-folder are collected the multilanguage versions of these activities.
+folder are collected the multilanguage versions of these activities. In general a file marked with REV in its name is a revised and more advanced version of the filename without REV. 
