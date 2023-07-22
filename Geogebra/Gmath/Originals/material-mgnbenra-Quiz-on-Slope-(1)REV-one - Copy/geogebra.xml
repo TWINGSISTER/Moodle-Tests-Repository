@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="utf-8"?>
+<geogebra format="5.0" version="5.0.772.0" app="classic" platform="w" id="bf9c4b28-d2c5-4f6f-873c-4b490a2ea085"  xsi:noNamespaceSchemaLocation="http://www.geogebra.org/apps/xsd/ggb.xsd" xmlns="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" >
+<gui>
+	<window width="1280" height="616" />
+	<perspectives>
+<perspective id="tmp">
+	<panes>
+		<pane location="" divider="0.5681818181818182" orientation="0" />
+	</panes>
+	<views>
+		<view id="512" toolbar="0 | 1 501 5 19 , 67 | 2 15 45 18 , 7 37 | 514 3 9 , 13 44 , 47 | 16 | 551 550 11 ,  20 22 21 23 , 55 56 57 , 12 | 69 | 510 511 , 512 513 | 533 531 , 534 532 , 522 523 , 537 536 , 535 | 521 520 | 36 , 38 49 560 | 571 30 29 570 31 33 | 17 | 540 40 41 42 , 27 28 35 , 6 , 502" visible="false" inframe="false" stylebar="false" location="1,1,1" size="500" window="100,100,600,400" />
+		<view id="8" toolbar="1001 | 1002 | 1003  || 1005 | 1004 || 1006 | 1007 | 1010 || 1008 1009 || 66 68 || 6" visible="false" inframe="false" stylebar="false" location="1,3" size="300" window="100,100,600,400" />
+		<view id="1" visible="true" inframe="false" stylebar="true" location="0" size="350" window="100,100,600,400" />
+		<view id="4" toolbar="0 || 2020 , 2021 , 2022 , 66 || 2001 , 2003 , 2002 , 2004 , 2005 || 2040 , 2041 , 2042 , 2044 , 2043" visible="false" inframe="false" stylebar="true" location="0" size="276" window="100,100,600,400" />
+		<view id="2" visible="false" inframe="false" stylebar="true" location="1" size="566" tab="ALGEBRA" window="100,100,600,400" />
+		<view id="16" visible="true" inframe="false" stylebar="true" location="2" size="205" window="50,50,500,500" />
+		<view id="32" visible="false" inframe="false" stylebar="true" location="1" size="150" window="50,50,500,500" />
+		<view id="64" toolbar="0" visible="false" inframe="false" stylebar="true" location="1" size="150" window="50,50,500,500" />
+		<view id="128" visible="false" inframe="false" stylebar="false" location="1" size="480" window="50,50,500,500" />
+		<view id="4097" visible="false" inframe="false" stylebar="true" location="1" size="380" window="308,27,972,773" />
+		<view id="70" toolbar="0 || 2020 || 2021 || 2022" visible="false" inframe="false" stylebar="true" location="1" size="150" window="50,50,500,500" />
+	</views>
+	<toolbar show="true" items="0 39 73 62 | 1 501 67 , 5 19 , 72 75 76 | 2 15 45 , 18 65 , 7 37 | 4 3 8 9 , 13 44 , 58 , 47 | 16 51 64 , 70 | 10 34 53 11 , 24  20 22 , 21 23 | 55 56 57 , 12 | 36 46 , 38 49  50 , 71  14  68 | 30 29 54 32 31 33 | 25 17 26 60 52 61 | 40 41 42 , 27 28 35 , 6" position="7" help="false" />
+	<input show="true" cmd="true" top="algebra" />
+	<dockBar show="false" east="false" />
+</perspective>
+	</perspectives>
+	<labelingStyle  val="0"/>
+	<font  size="20"/>
+</gui>
+<euclidianView>
+	<viewNumber viewNo="1"/>
+	<size  width="1280" height="350"/>
+	<coordSystem xZero="725.2066115702476" yZero="214.11570247933892" scale="27.33890402377644" yscale="27.338904023776188"/>
+	<evSettings axes="true" grid="true" gridIsBold="false" pointCapturing="3" rightAngleStyle="1" checkboxSize="26" gridType="0"/>
+	<bgColor r="255" g="255" b="255"/>
+	<axesColor r="0" g="153" b="204"/>
+	<gridColor r="192" g="192" b="192"/>
+	<lineStyle axes="3" grid="0"/>
+	<axis id="0" show="true" label="x" unitLabel="" tickStyle="1" showNumbers="true" tickDistance="1" tickExpression="1"/>
+	<axis id="1" show="true" label="y" unitLabel="" tickStyle="1" showNumbers="true" tickDistance="1" tickExpression="1"/>
+	<grid distX="1" distY="1" distTheta="0.5235987755982988"/>
+</euclidianView>
+<euclidianView>
+	<viewNumber viewNo="2"/>
+	<size  width="1280" height="204"/>
+	<coordSystem xZero="226.0847270452373" yZero="250.4484497331903" scale="39.51126118434543" yscale="39.511261184345535"/>
+	<evSettings axes="false" grid="false" gridIsBold="false" pointCapturing="3" rightAngleStyle="1" checkboxSize="26" gridType="0"/>
+	<bgColor r="255" g="255" b="255"/>
+	<axesColor r="0" g="0" b="0"/>
+	<gridColor r="192" g="192" b="192"/>
+	<lineStyle axes="1" grid="0"/>
+	<axis id="0" show="false" label="" unitLabel="" tickStyle="1" showNumbers="true"/>
+	<axis id="1" show="false" label="" unitLabel="" tickStyle="1" showNumbers="true"/>
+	<grid distX="1" distY="1" distTheta="0.5235987755982988"/>
+</euclidianView>
+<algebraView>
+	<mode val="1"/>
+	<collapsed val="0"/>
+</algebraView>
+<kernel>
+	<continuous val="false"/>
+	<usePathAndRegionParameters val="true"/>
+	<decimals val="2"/>
+	<angleUnit val="degree"/>
+	<algebraStyle val="0" spreadsheet="0"/>
+	<coordStyle val="0"/>
+</kernel>
+<tableview min="-2" max="2" step="1"/>
+<scripting blocked="false" disabled="false"/>
+<construction title="" author="" date="">
+<element type="point" label="D">
+	<show object="false" label="true" ev="7"/>
+	<objColor r="0" g="0" b="255" alpha="0"/>
+	<layer val="0"/>
+	<labelMode val="0"/>
+	<animation step="0.1" speed="1" type="1" playing="false"/>
+	<pointSize val="5"/>
+	<pointStyle val="0"/>
+	<coords x="9" y="0" z="1"/>
+</element>
+<element type="point" label="C">
+	<show object="false" label="true" ev="7"/>
+	<objColor r="0" g="0" b="255" alpha="0"/>
+	<layer val="0"/>
+	<labelMode val="0"/>
+	<animation step="0.1" speed="1" type="1" playing="false"/>
+	<pointSize val="5"/>
+	<pointStyle val="0"/>
+	<coords x="0" y="0" z="1"/>
+</element>
+<element type="point" label="B">
+	<show object="false" label="true" ev="7"/>
+	<objColor r="0" g="0" b="255" alpha="0"/>
+	<layer val="0"/>
+	<labelMode val="0"/>
+	<animation step="0.1" speed="1" type="1" playing="false"/>
+	<pointSize val="5"/>
+	<pointStyle val="0"/>
+	<coords x="9" y="3" z="1"/>
+</element>
+<expression label="A" exp="(0, 3)" type="point"/>
+<element type="point" label="A">
+	<show object="false" label="true" ev="7"/>
+	<objColor r="0" g="0" b="255" alpha="0"/>
+	<layer val="0"/>
+	<labelMode val="0"/>
+	<animation step="0.1" speed="1" type="1" playing="false"/>
+	<pointSize val="5"/>
+	<pointStyle val="0"/>
+	<coords x="0" y="3" z="1"/>
+</element>
+<command name="Shuffle">
+	<input a0="Shuffle[{A, B, C, D}]"/>
+	<output a0="listPos" randomResult="{(0, 0), (9, 3), (9, 0), (0, 3)}"/>
+</command>
+<element type="list" label="listPos">
+	<show object="true" label="true" ev="4"/>
+	<objColor r="0" g="100" b="0" alpha="0"/>
+	<layer val="0"/>
+	<labelMode val="0"/>
+	<lineStyle thickness="5" type="0" typeHidden="1"/>
+	<pointSize val="5"/>
+	<pointStyle val="0"/>
+	<angleStyle val="0"/>
+</element>
+<command name="Sample">
+	<input a0="-11…11" a1="2" a2="false"/>
+	<output a0="listX" randomResult="{5, -9}"/>
+</command>
+<element type="list" label="listX">
+	<objColor r="0" g="100" b="0" alpha="0.10000000149011612"/>
+	<lineStyle thickness="5" type="0" typeHidden="1"/>
+	<pointSize val="5"/>
+	<pointStyle val="0"/>
+	<angleStyle val="0"/>
+</element>
+<expression label="x2" exp="listX(2)" />
+<element type="numeric" label="x2">
+	<value val="-9"/>
+	<symbolic val="true" />
+	<objColor r="0" g="0" b="0" alpha="0.10000000149011612"/>
+	<selectionAllowed val="false"/>
+</element>
+<expression label="x1" exp="listX(1)" />
+<element type="numeric" label="x1">
+	<value val="5"/>
+	<symbolic val="true" />
+	<objColor r="0" g="0" b="0" alpha="0.10000000149011612"/>
+	<selectionAllowed val="false"/>
+</element>
+<command name="RandomElement">
+	<input a0="(-5…5) \ {x1, x2}"/>
+	<output a0="y2"/>
+</command>
+<element type="numeric" label="y2">
+	<value val="-3"/>
+	<symbolic val="true" />
+	<objColor r="0" g="0" b="0" alpha="0.10000000149011612"/>
+</element>
+<command name="RandomElement">
+	<input a0="(-5…5) \ {x1, x2}"/>
+	<output a0="y1"/>
+</command>
+<element type="numeric" label="y1">
+	<value val="4"/>
+	<symbolic val="true" />
+	<objColor r="0" g="0" b="0" alpha="0.10000000149011612"/>
+</element>
+<expression label="textWrong1" exp="&quot;\frac{&quot; + (LaTeX[x2]) + &quot;-&quot; + (LaTeX[If[x1 &lt; 0, &quot;(&quot; + (Text[x1]) + &quot;)&quot;, Text[x1]]]) + &quot;}{&quot; + (LaTeX[y2]) + &quot;-&quot; + (LaTeX[If[y1 &lt; 0, &quot;(&quot; + (Text[y1]) + &quot;)&quot;, Text[y1]]]) + &quot;}&quot;" />
+<element type="text" label="textWrong1">
+	<show object="true" label="true" ev="11"/>
+	<objColor r="0" g="0" b="0" alpha="0"/>
+	<bgColor r="255" g="250" b="205" alpha="255"/>
+	<layer val="0"/>
+	<labelMode val="0"/>
+	<tooltipMode val="2"/>
+	<fixed val="true"/>
+	<isLaTeX val="true"/>
+	<font serif="true" sizeM="1.4" size="8" style="0"/>
+	<startPoint exp="Q"/>
+	<ggbscript val="SetValue(marks,marks-1)&#xa;SetVisibleInView(picWrong1,2,true)&#xa;SetValue[checked,true]&#xa;StartAnimation[s,true]&#xa;SetFixed(textCorrect,true,false)&#xa;SetFixed(textWrong1,true,false)&#xa;SetFixed(textWrong2,true,false)&#xa;SetFixed(textWrong3,true,false)&#xa;SetVisibleInView(textAns,2,true)&#xa;SetVisibleInView(buttonNext,2,true)&#xa;SelectObjects()"/>
+</element>
+<expression label="textWrong3b" exp="&quot;\frac{&quot; + (LaTeX[y2]) + &quot;+&quot; + (LaTeX[If[y1 &lt; 0, &quot;(&quot; + (Text[y1]) + &quot;)&quot;, Text[y1]]]) + &quot;}{&quot; + (LaTeX[x2]) + &quot;+&quot; + (LaTeX[If[x1 &lt; 0, &quot;(&quot; + (Text[x1]) + &quot;)&quot;, Text[x1]]]) + &quot;}&quot;" />
+<element type="text" label="textWrong3b">
+	<show object="false" label="true" ev="11"/>
+	<objColor r="160" g="160" b="160" alpha="0"/>
+	<bgColor r="255" g="250" b="205" alpha="255"/>
+	<layer val="0"/>
+	<labelMode val="0"/>
+	<fixed val="true"/>
+	<selectionAllowed val="false"/>
+	<isLaTeX val="true"/>
+	<font serif="true" sizeM="1.4" size="8" style="0"/>
+	<absoluteScreenLocation x="238" y="535"/>
+</element>
+<expression label="textWrong3a" exp="&quot;\frac{&quot; + (LaTeX[y2]) + &quot;-&quot; + (LaTeX[If[x2 &lt; 0, &quot;(&quot; + (Text[x2]) + &quot;)&quot;, Text[x2]]]) + &quot;}{&quot; + (LaTeX[y1]) + &quot;-&quot; + (LaTeX[If[x1 &lt; 0, &quot;(&quot; + (Text[x1]) + &quot;)&quot;, Text[x1]]]) + &quot;}&quot;" />
+<element type="text" label="textWrong3a">
+	<show object="false" label="true" ev="11"/>
+	<objColor r="160" g="160" b="160" alpha="0"/>
+	<bgColor r="255" g="250" b="205" alpha="255"/>
+	<layer val="0"/>
+	<labelMode val="0"/>
+	<fixed val="true"/>
+	<selectionAllowed val="false"/>
+	<isLaTeX val="true"/>
+	<font serif="true" sizeM="1.4" size="8" style="0"/>
+	<absoluteScreenLocation x="65" y="536"/>
+</element>
+<command name="RandomElement">
+	<input a0="{textWrong3a, textWrong3b}"/>
+	<output a0="textWrong3" randomResult="&quot;\frac{-3+4}{-9+5}&quot;"/>
+</command>
+<element type="text" label="textWrong3">
+	<symbolic val="true" />
+	<show object="true" label="true" ev="11"/>
+	<objColor r="0" g="0" b="0" alpha="0"/>
+	<bgColor r="255" g="250" b="205" alpha="255"/>
+	<layer val="0"/>
+	<labelMode val="0"/>
+	<tooltipMode val="2"/>
+	<fixed val="true"/>
+	<isLaTeX val="true"/>
+	<font serif="true" sizeM="1.4" size="8" style="0"/>
+	<startPoint exp="S"/>
+	<ggbscript val="SetValue(marks,marks-1)&#xa;SetVisibleInView(picWrong3,2,true)&#xa;SetValue[checked,true]&#xa;StartAnimation[s,true]&#xa;SetFixed(textCorrect,true,false)&#xa;SetFixed(textWrong1,true,false)&#xa;SetFixed(textWrong2,true,false)&#xa;SetFixed(textWrong3,true,false)&#xa;SetVisibleInView(textAns,2,true)&#xa;SetVisibleInView(buttonNext,2,true)&#xa;SelectObjects()"/>
+</element>
+<expression label="P" exp="listPos(1)" type="point" />
+<element type="point" label="P">
+	<show object="false" label="true" ev="7"/>
+	<objColor r="0" g="0" b="255" alpha="0"/>
+	<layer val="0"/>
+	<labelMode val="0"/>
+	<pointSize val="5"/>
+	<pointStyle val="0"/>
+	<coords x="0" y="0" z="1"/>
+</element>
+<expression label="Q" exp="listPos(2)" type="point" />
+<element type="point" label="Q">
+	<show object="false" label="true" ev="7"/>
+	<objColor r="0" g="0" b="255" alpha="0"/>
+	<layer val="0"/>
+	<labelMode val="0"/>
+	<pointSize val="5"/>
+	<pointStyle val="0"/>
+	<coords x="9" y="3" z="1"/>
+</element>
+<expression label="R" exp="listPos(3)" type="point" />
+<element type="point" label="R">
+	<show object="false" label="true" ev="7"/>
+	<objColor r="0" g="0" b="255" alpha="0"/>
+	<layer val="0"/>
+	<labelMode val="0"/>
+	<pointSize val="5"/>
+	<pointStyle val="0"/>
+	<coords x="9" y="0" z="1"/>
+</element>
+<expression label="S" exp="listPos(4)" type="point" />
+<element type="point" label="S">
+	<show object="false" label="true" ev="7"/>
+	<objColor r="0" g="0" b="255" alpha="0"/>
+	<layer val="0"/>
+	<labelMode val="0"/>
+	<pointSize val="5"/>
+	<pointStyle val="0"/>
+	<coords x="0" y="3" z="1"/>
+</element>
+<element type="button" label="buttonNext">
+	<show object="false" label="true" ev="1"/>
+	<objColor r="0" g="0" b="0" alpha="0"/>
+	<bgColor r="255" g="255" b="0" alpha="255"/>
+	<layer val="0"/>
+	<labelOffset x="858" y="106"/>
+	<labelMode val="0"/>
+	<animation step="1" speed="1" type="0" playing="false"/>
+	<auxiliary val="true"/>
+	<ggbscript val="UpdateConstruction()&#xa;SetValue[checked,false]&#xa;SetValue[hint,false]&#xa;SetValue[s,0]&#xa;&#xa;SetValue(P,listPos(1))&#xa;SetValue(Q,listPos(2))&#xa;SetValue(R,listPos(3))&#xa;SetValue(S,listPos(4))&#xa;&#xa;SetVisibleInView(picCorrect,2,false)&#xa;SetVisibleInView(picWrong1,2,false)&#xa;SetVisibleInView(picWrong2,2,false)&#xa;SetVisibleInView(picWrong3,2,false)&#xa;&#xa;SetVisibleInView(textAns,2,false)&#xa;#SetVisibleInView(buttonNext,2,false)&#xa;&#xa;SetFixed(textCorrectn,true,true)&#xa;SetFixed(textWrong1,true,true)&#xa;SetFixed(textWrong2,true,true)&#xa;SetFixed(textWrong3,true,true)&#xa;&#xa;#SetActiveView( 1 )&#xa;#SetAxesRatio(Random(1,2),Random(1,2))"/>
+	<caption val="Next"/>
+	<font serif="false" sizeM="2" size="20" style="0"/>
+</element>
+<command name="If">
+	<input a0="x1 &gt; x2" a1="(x1, y1)" a2="(x2, y2)"/>
+	<output a0="M"/>
+</command>
+<element type="point" label="M">
+	<show object="true" label="false" ev="4"/>
+	<objColor r="68" g="68" b="68" alpha="0"/>
+	<layer val="0"/>
+	<labelOffset x="12" y="45"/>
+	<labelMode val="2"/>
+	<pointSize val="4"/>
+	<pointStyle val="0"/>
+	<coords x="5" y="4" z="1"/>
+</element>
+<command name="If">
+	<input a0="x1 &gt; x2" a1="(x2, y2)" a2="(x1, y1)"/>
+	<output a0="N"/>
+</command>
+<element type="point" label="N">
+	<show object="true" label="false" ev="4"/>
+	<objColor r="68" g="68" b="68" alpha="0"/>
+	<layer val="0"/>
+	<labelMode val="2"/>
+	<pointSize val="4"/>
+	<pointStyle val="0"/>
+	<coords x="-9" y="-3" z="1"/>
+</element>
+<command name="Line">
+	<input a0="M" a1="N"/>
+	<output a0="f"/>
+</command>
+<element type="line" label="f">
+	<show object="true" label="false" ev="4"/>
+	<objColor r="0" g="0" b="0" alpha="0"/>
+	<layer val="0"/>
+	<labelMode val="0"/>
+	<selectionAllowed val="false"/>
+	<lineStyle thickness="5" type="0" typeHidden="1" opacity="178"/>
+	<eqnStyle style="implicit"/>
+	<coords x="7" y="-14" z="21"/>
+</element>
+<expression label="correct" exp="true"/>
+<element type="boolean" label="correct">
+	<value val="true"/>
+	<show object="false" label="true" ev="3"/>
+	<objColor r="255" g="0" b="0" alpha="0"/>
+	<layer val="0"/>
+	<labelMode val="0"/>
+	<checkbox fixed="true"/>
+</element>
+<element type="image" label="picCorrect">
+	<file name="96bee65b9df1ebf3a821122f720c42ff/clap_small.png"/>
+	<inBackground val="false"/>
+	<startPoint number="0" exp="P + (5, -2)"/>
+	<startPoint number="2" exp="P + (5, 0)"/>
+	<show object="true" label="true" ev="1"/>
+	<objColor r="0" g="0" b="0" alpha="1"/>
+	<layer val="0"/>
+	<labelMode val="0"/>
+	<fixed val="true"/>
+	<selectionAllowed val="false"/>
+</element>
+<element type="image" label="picWrong3">
+	<file name="e4b6a4497f2a9e29df36092a3f5cedd0/shocked.png"/>
+	<inBackground val="false"/>
+	<startPoint number="0" exp="S + (5, -2)"/>
+	<startPoint number="2" exp="S + (5, 0)"/>
+	<show object="true" label="true" ev="1"/>
+	<objColor r="0" g="0" b="0" alpha="1"/>
+	<layer val="0"/>
+	<labelMode val="0"/>
+	<fixed val="true"/>
+	<selectionAllowed val="false"/>
+</element>
+<element type="image" label="picWrong2">
+	<file name="4e68e4a49563f321b40f493ba3192f5f/tears-of-joy.png"/>
+	<inBackground val="false"/>
+	<startPoint number="0" exp="R + (5, -2)"/>
+	<startPoint number="2" exp="R + (5, 0)"/>
+	<show object="true" label="true" ev="1"/>
+	<objColor r="0" g="0" b="0" alpha="1"/>
+	<layer val="0"/>
+	<labelMode val="0"/>
+	<fixed val="true"/>
+	<selectionAllowed val="false"/>
+</element>
+<element type="image" label="picWrong1">
+	<file name="a94e0f31e7dfd448c35c108f5edd6f90/Cold Sweat.png"/>
+	<inBackground val="false"/>
+	<startPoint number="0" exp="Q + (5, -2)"/>
+	<startPoint number="2" exp="Q + (5, 0)"/>
+	<show object="true" label="true" ev="1"/>
+	<objColor r="0" g="0" b="0" alpha="1"/>
+	<layer val="0"/>
+	<labelMode val="0"/>
+	<fixed val="true"/>
+	<selectionAllowed val="false"/>
+</element>
+<element type="numeric" label="marks">
+	<value val="0"/>
+	<symbolic val="true" />
+	<slider min="0" max="30" absoluteScreenLocation="true" width="200" fixed="true" horizontal="true" showAlgebra="true"/>
+	<lineStyle thickness="2" type="0" typeHidden="1"/>
+	<show object="false" label="true"/>
+	<objColor r="255" g="0" b="0" alpha="0.10000000149011612"/>
+	<layer val="0"/>
+	<labelMode val="1"/>
+	<animation step="1" speed="1" type="0" playing="false"/>
+</element>
+<expression label="text1" exp="&quot;A.&quot;"/>
+<element type="text" label="text1">
+	<show object="true" label="true" ev="43"/>
+	<objColor r="255" g="0" b="0" alpha="0"/>
+	<layer val="0"/>
+	<labelMode val="0"/>
+	<selectionAllowed val="false"/>
+	<startPoint x="-0.9257979094076657" y="2.4311173054587685" z="1"/>
+</element>
+<expression label="text2" exp="&quot;B.&quot;"/>
+<element type="text" label="text2">
+	<show object="true" label="true" ev="43"/>
+	<objColor r="255" g="0" b="0" alpha="0"/>
+	<layer val="0"/>
+	<labelMode val="0"/>
+	<selectionAllowed val="false"/>
+	<startPoint x="8.074202090592335" y="2.431117305458769" z="1"/>
+</element>
+<expression label="text3" exp="&quot;C.&quot;"/>
+<element type="text" label="text3">
+	<show object="true" label="true" ev="43"/>
+	<objColor r="255" g="0" b="0" alpha="0"/>
+	<layer val="0"/>
+	<labelMode val="0"/>
+	<selectionAllowed val="false"/>
+	<startPoint x="-0.9257979094076654" y="-0.5688826945412311" z="1"/>
+</element>
+<expression label="text4" exp="&quot;D.&quot;"/>
+<element type="text" label="text4">
+	<show object="true" label="true" ev="43"/>
+	<objColor r="255" g="0" b="0" alpha="0"/>
+	<layer val="0"/>
+	<labelMode val="0"/>
+	<selectionAllowed val="false"/>
+	<startPoint x="8.074202090592333" y="-0.5688826945412311" z="1"/>
+</element>
+<expression label="textENG" exp="&quot;Which of the following expressions can be used to find the gradient of the above straight line?&quot;"/>
+<element type="text" label="textENG">
+	<show object="true" label="true" ev="43"/>
+	<condition showObject="lang ≠ 1"/>
+	<objColor r="0" g="0" b="0" alpha="0"/>
+	<layer val="0"/>
+	<labelMode val="0"/>
+	<selectionAllowed val="false"/>
+	<startPoint x="-0.9196840882694546" y="4.428353077816496" z="1"/>
+</element>
+<expression label="textWrong2" exp="&quot;\frac{&quot; + (LaTeX[y2]) + &quot;-&quot; + (LaTeX[If[y1 &lt; 0, &quot;(&quot; + (Text[y1]) + &quot;)&quot;, Text[y1]]]) + &quot;}{&quot; + (LaTeX[x1]) + &quot;&quot; + (LaTeX[If[y1 ≟ y2, &quot;+&quot;, &quot;-&quot;]]) + &quot;&quot; + (LaTeX[If[x2 &lt; 0, &quot;(&quot; + (Text[x2]) + &quot;)&quot;, Text[x2]]]) + &quot;}&quot;" />
+<element type="text" label="textWrong2">
+	<show object="true" label="true" ev="11"/>
+	<objColor r="0" g="0" b="0" alpha="0"/>
+	<bgColor r="255" g="250" b="205" alpha="255"/>
+	<layer val="0"/>
+	<labelMode val="0"/>
+	<tooltipMode val="2"/>
+	<fixed val="true"/>
+	<isLaTeX val="true"/>
+	<font serif="true" sizeM="1.4" size="8" style="0"/>
+	<startPoint exp="R"/>
+	<ggbscript val="SetValue(marks,marks-1)&#xa;SetVisibleInView(picWrong2,2,true)&#xa;SetValue[checked,true]&#xa;StartAnimation[s,true]&#xa;SetFixed(textCorrect,true,false)&#xa;SetFixed(textWrong1,true,false)&#xa;SetFixed(textWrong2,true,false)&#xa;SetFixed(textWrong3,true,false)&#xa;SetVisibleInView(textAns,2,true)&#xa;SetVisibleInView(buttonNext,2,true)&#xa;SelectObjects()"/>
+</element>
+<element type="button" label="button0">
+	<show object="false" label="true" ev="3"/>
+	<objColor r="0" g="0" b="0" alpha="0"/>
+	<bgColor r="255" g="255" b="255" alpha="255"/>
+	<layer val="0"/>
+	<labelOffset x="933" y="14"/>
+	<labelMode val="3"/>
+	<animation step="1" speed="1" type="0" playing="false"/>
+	<auxiliary val="true"/>
+	<ggbscript val="SetValue(lang,If(lang==1,2,1))&#xa;RunClickScript(buttonLang)&#xa;&#xa;"/>
+	<caption val="中文"/>
+	<font serif="false" sizeM="1.4" size="8" style="0"/>
+</element>
+<element type="button" label="buttonLang">
+	<show object="false" label="true" ev="3"/>
+	<objColor r="0" g="0" b="0" alpha="0"/>
+	<bgColor r="255" g="255" b="255" alpha="255"/>
+	<layer val="0"/>
+	<labelOffset x="1014" y="69"/>
+	<labelMode val="0"/>
+	<animation step="1" speed="1" type="0" playing="false"/>
+	<auxiliary val="true"/>
+	<ggbscript val="SetCaption(button0,If(lang==1,&quot;ENG&quot;,&quot;中文&quot;))&#xa;&#xa;"/>
+	<font serif="false" sizeM="2" size="20" style="0"/>
+</element>
+<element type="numeric" label="lang">
+	<value val="2"/>
+	<symbolic val="true" />
+	<show object="false" label="true"/>
+	<objColor r="0" g="0" b="0" alpha="0.10000000149011612"/>
+	<layer val="0"/>
+	<labelMode val="2"/>
+	<animation step="0.1" speed="1" type="0" playing="false"/>
+</element>
+<expression label="textMarks" exp="&quot;&quot; + (If[lang ≟ 1, &quot; 分數&quot;, &quot;Marks&quot;]) + &quot; = &quot; + marks + &quot;&quot;" />
+<element type="text" label="textMarks">
+	<show object="true" label="false" ev="11"/>
+	<objColor r="0" g="0" b="0" alpha="0"/>
+	<layer val="0"/>
+	<labelMode val="0"/>
+	<selectionAllowed val="false"/>
+	<startPoint x="18.0390894308943" y="3.2466480836236906" z="1"/>
+</element>
+<expression label="textCHI" exp="&quot;以下哪一道算式可計算以上直線的斜率？&quot;"/>
+<element type="text" label="textCHI">
+	<show object="true" label="true" ev="43"/>
+	<condition showObject="lang ≟ 1"/>
+	<objColor r="0" g="0" b="0" alpha="0"/>
+	<layer val="0"/>
+	<labelMode val="0"/>
+	<selectionAllowed val="false"/>
+	<font serif="false" sizeM="1.4" size="8" style="0"/>
+	<startPoint x="-0.9196840882694541" y="4.2304808362369375" z="1"/>
+</element>
+<expression label="textM" exp="&quot;&quot; + (LaTeX[M]) + &quot;&quot;" />
+<element type="text" label="textM">
+	<show object="true" label="true" ev="8"/>
+	<objColor r="0" g="0" b="0" alpha="0"/>
+	<layer val="0"/>
+	<labelMode val="0"/>
+	<isLaTeX val="true"/>
+	<font serif="true" sizeM="1.4" size="8" style="0"/>
+	<startPoint exp="M"/>
+	<labelOffset x="12" y="-17"/>
+</element>
+<expression label="textN" exp="&quot;&quot; + (LaTeX[N]) + &quot;&quot;" />
+<element type="text" label="textN">
+	<show object="true" label="false" ev="8"/>
+	<objColor r="0" g="0" b="0" alpha="0"/>
+	<layer val="0"/>
+	<labelMode val="0"/>
+	<isLaTeX val="true"/>
+	<font serif="true" sizeM="1.4" size="8" style="0"/>
+	<startPoint exp="N"/>
+	<labelOffset x="-80" y="7"/>
+</element>
+<element type="image" label="picStar">
+	<file name="a1438ea254ee24f940dc2e1cb2430ccf/star.png"/>
+	<inBackground val="false"/>
+	<absoluteScreenLocation x="903" y="159"/>	<show object="true" label="true" ev="3"/>
+	<condition showObject="marks ≥ 30"/>
+	<objColor r="0" g="0" b="0" alpha="1"/>
+	<layer val="0"/>
+	<labelMode val="0"/>
+	<animation step="1" speed="1" type="0" playing="false"/>
+	<selectionAllowed val="false"/>
+</element>
+<element type="numeric" label="s">
+	<value val="0"/>
+	<slider min="0" max="2.1" absoluteScreenLocation="true" width="200" x="30" y="50" fixed="true" horizontal="true" showAlgebra="true"/>
+	<lineStyle thickness="2" type="0" typeHidden="1"/>
+	<show object="false" label="true"/>
+	<objColor r="0" g="0" b="0" alpha="0.10000000149011612"/>
+	<layer val="0"/>
+	<labelMode val="1"/>
+	<animation step="0.05" speed="5" type="3" playing="false"/>
+</element>
+<expression label="T" exp="(x(M), y(N))" type="point" />
+<element type="point" label="T">
+	<show object="false" label="true" ev="4"/>
+	<objColor r="68" g="68" b="68" alpha="0"/>
+	<layer val="0"/>
+	<labelMode val="0"/>
+	<pointSize val="4"/>
+	<pointStyle val="0"/>
+	<coords x="5" y="-3" z="1"/>
+</element>
+<command name="Dilate">
+	<input a0="T" a1="If[0 &lt; s ≤ 1, s, 1]" a2="N"/>
+	<output a0="N&apos;"/>
+</command>
+<element type="point" label="N&apos;">
+	<show object="false" label="false" ev="4"/>
+	<objColor r="68" g="68" b="68" alpha="0"/>
+	<layer val="0"/>
+	<labelMode val="2"/>
+	<pointSize val="4"/>
+	<pointStyle val="0"/>
+	<coords x="5" y="-3" z="1"/>
+</element>
+<command name="Vector">
+	<input a0="N" a1="N&apos;"/>
+	<output a0="u"/>
+</command>
+<element type="vector" label="u">
+	<show object="true" label="false" ev="4"/>
+	<condition showObject="s &gt; 0.2 ∧ checked"/>
+	<objColor r="0" g="0" b="255" alpha="0"/>
+	<layer val="0"/>
+	<labelMode val="0"/>
+	<lineStyle thickness="7" type="15" typeHidden="1" opacity="178"/>
+	<coordStyle style="cartesian"/>
+	<startPoint exp="N"/>
+	<coords x="14" y="0" z="0"/>
+</element>
+<command name="Dilate">
+	<input a0="M" a1="If[1 &lt; s ≤ 2, s - 1, 1]" a2="T"/>
+	<output a0="M&apos;"/>
+</command>
+<element type="point" label="M&apos;">
+	<show object="false" label="true" ev="4"/>
+	<objColor r="68" g="68" b="68" alpha="0"/>
+	<layer val="0"/>
+	<labelMode val="0"/>
+	<pointSize val="4"/>
+	<pointStyle val="0"/>
+	<coords x="5" y="4" z="1"/>
+</element>
+<command name="Vector">
+	<input a0="T" a1="M&apos;"/>
+	<output a0="v"/>
+</command>
+<element type="vector" label="v">
+	<show object="true" label="false" ev="4"/>
+	<condition showObject="s &gt; 1.2 ∧ checked"/>
+	<objColor r="255" g="0" b="0" alpha="0"/>
+	<layer val="0"/>
+	<labelMode val="0"/>
+	<lineStyle thickness="7" type="15" typeHidden="1" opacity="178"/>
+	<coordStyle style="cartesian"/>
+	<startPoint exp="T"/>
+	<coords x="0" y="7" z="0"/>
+</element>
+<element type="boolean" label="checked">
+	<value val="false"/>
+	<show object="false" label="true"/>
+	<objColor r="0" g="0" b="0" alpha="0"/>
+	<layer val="0"/>
+	<labelMode val="0"/>
+	<checkbox fixed="true"/>
+</element>
+<expression label="text5" exp="&quot;\text{Run =} &quot; + (LaTeX[x(M)]) + &quot; &quot; + (LaTeX[If[x(N) &lt; 0, &quot;−(&quot; + (x(N)) + &quot;)&quot;, &quot;−&quot; + (x(N))]]) + &quot;\\&#xa;\text{      } =&quot; + (LaTeX[x(M) - x(N)]) + &quot;&quot;" />
+<element type="text" label="text5">
+	<show object="true" label="true" ev="8"/>
+	<condition showObject="checked ∧ s &gt; 0.9"/>
+	<objColor r="0" g="0" b="255" alpha="0"/>
+	<layer val="0"/>
+	<labelMode val="0"/>
+	<isLaTeX val="true"/>
+	<font serif="true" sizeM="0.7" size="-6" style="1"/>
+	<startPoint exp="Midpoint[N, T]"/>
+	<labelOffset x="-58" y="22"/>
+</element>
+<expression label="text7" exp="&quot;\text{Rise =}&quot; + (LaTeX[y(M)]) + &quot; &quot; + (LaTeX[If[y(N) &lt; 0, &quot;−(&quot; + (y(N)) + &quot;)&quot;, &quot;−&quot; + (y(N))]]) + &quot;\\&#xa;\text{     } = &quot; + (LaTeX[y(M) - y(N)]) + &quot;&quot;" />
+<element type="text" label="text7">
+	<show object="true" label="true" ev="8"/>
+	<condition showObject="checked ∧ s &gt; 1.9"/>
+	<objColor r="255" g="0" b="0" alpha="0"/>
+	<layer val="0"/>
+	<labelMode val="0"/>
+	<isLaTeX val="true"/>
+	<font serif="true" sizeM="0.7" size="-6" style="1"/>
+	<startPoint exp="Midpoint[M, T]"/>
+	<labelOffset x="9" y="-7"/>
+</element>
+<expression label="textCorrectn" exp="&quot;\frac{ &quot; + (LaTeX[y(M)]) + &quot;  &quot; + (LaTeX[If[y(N) &lt; 0, &quot;−(&quot; + (y(N)) + &quot;)&quot;, &quot;−&quot; + (y(N))]]) + &quot; }{ &quot; + (LaTeX[x(M)]) + &quot; &quot; + (LaTeX[If[x(N) &lt; 0, &quot;−(&quot; + (x(N)) + &quot;)&quot;, &quot;−&quot; + (x(N))]]) + &quot; } &quot;" />
+<element type="text" label="textCorrectn">
+	<show object="true" label="true" ev="11"/>
+	<objColor r="0" g="0" b="0" alpha="0"/>
+	<bgColor r="255" g="250" b="205" alpha="255"/>
+	<layer val="0"/>
+	<labelMode val="0"/>
+	<tooltipMode val="2"/>
+	<fixed val="true"/>
+	<isLaTeX val="true"/>
+	<font serif="true" sizeM="1.4" size="8" style="0"/>
+	<startPoint exp="P"/>
+	<ggbscript val="SetValue(marks,marks+1)&#xa;SetVisibleInView(picCorrect,2,true)&#xa;SetValue[checked,true]&#xa;StartAnimation[s,true]&#xa;SetFixed(textCorrectn,true,false)&#xa;SetFixed(textWrong1,true,false)&#xa;SetFixed(textWrong2,true,false)&#xa;SetFixed(textWrong3,true,false)&#xa;SetVisibleInView(textAns,2,true)&#xa;#SetVisibleInView(buttonNext,2,true)&#xa;SelectObjects()"/>
+</element>
+<element type="button" label="buttonReset">
+	<show object="false" label="true" ev="3"/>
+	<objColor r="0" g="0" b="0" alpha="0"/>
+	<bgColor r="255" g="153" b="204" alpha="255"/>
+	<layer val="0"/>
+	<labelOffset x="864" y="9"/>
+	<labelMode val="0"/>
+	<fixed val="true"/>
+	<auxiliary val="true"/>
+	<ggbscript val="SetValue[marks,0]&#xa;RunClickScript[buttonNext]"/>
+	<caption val="Reset"/>
+	<font serif="false" sizeM="2" size="20" style="0"/>
+</element>
+<expression label="textCorrect" exp="&quot;\frac{&quot; + (LaTeX[y2]) + &quot;-&quot; + (LaTeX[If[y1 &lt; 0, &quot;(&quot; + (Text[y1]) + &quot;)&quot;, Text[y1]]]) + &quot;}{&quot; + (LaTeX[x2]) + &quot;-&quot; + (LaTeX[If[x1 &lt; 0, &quot;(&quot; + (Text[x1]) + &quot;)&quot;, Text[x1]]]) + &quot;}&quot;" />
+<element type="text" label="textCorrect">
+	<show object="false" label="true" ev="11"/>
+	<objColor r="0" g="0" b="0" alpha="0"/>
+	<bgColor r="255" g="250" b="205" alpha="255"/>
+	<layer val="0"/>
+	<labelMode val="0"/>
+	<fixed val="true"/>
+	<selectionAllowed val="false"/>
+	<isLaTeX val="true"/>
+	<font serif="true" sizeM="1.4" size="8" style="0"/>
+	<startPoint exp="P"/>
+	<ggbscript val="SetValue(marks,marks+1)&#xa;SetVisibleInView(picCorrect,2,true)&#xa;SetValue[checked,true]&#xa;StartAnimation[s,true]&#xa;SetFixed(textCorrectn,true,false)&#xa;SetFixed(textWrong1,true,false)&#xa;SetFixed(textWrong2,true,false)&#xa;SetFixed(textWrong3,true,false)&#xa;SetVisibleInView(textAns,2,true)&#xa;#SetVisibleInView(buttonNext,2,true)&#xa;SelectObjects()"/>
+</element>
+<expression label="text6" exp="&quot; Use the rightmost point to subtract from, for both rise and run.&quot;"/>
+<element type="text" label="text6">
+	<show object="true" label="true" ev="43"/>
+	<condition showObject="hint"/>
+	<objColor r="0" g="0" b="255" alpha="0"/>
+	<layer val="0"/>
+	<labelMode val="3"/>
+	<fixed val="true"/>
+	<font serif="true" sizeM="1" size="0" style="2"/>
+	<absoluteScreenLocation x="182" y="381"/>
+</element>
+<element type="boolean" label="hint">
+	<value val="true"/>
+	<show object="true" label="true" ev="3"/>
+	<objColor r="0" g="0" b="255" alpha="0"/>
+	<layer val="0"/>
+	<labelOffset x="58" y="346"/>
+	<labelMode val="3"/>
+	<checkbox fixed="true"/>
+	<caption val="$\small\it\text{Hint:}$"/>
+</element>
+<expression label="grade" exp="marks" />
+<element type="numeric" label="grade">
+	<value val="0"/>
+	<objColor r="0" g="0" b="0" alpha="0.10000000149011612"/>
+</element>
+<expression label="textAns" exp="&quot;\begin{align} \text{gradient} &amp; = \frac{\text{Rise}}{\text{Run}} &amp; = &quot; + (LaTeX[textCorrectn]) + &quot;\\&#xa;&amp; =  &quot; + (LaTeX[If[FractionText[Slope[f]] ≟ &quot;?&quot;, &quot;\frac{0}{0}, \;\text{the}\; \text{gradient is}\;\text{undefined!}&quot;, &quot;&quot; + (FractionText[Slope[f]])]]) + &quot;  &#xa;\end{align}&quot;" />
+<element type="text" label="textAns">
+	<show object="true" label="true" ev="9"/>
+	<objColor r="255" g="0" b="0" alpha="0"/>
+	<layer val="0"/>
+	<labelMode val="0"/>
+	<selectionAllowed val="false"/>
+	<isLaTeX val="true"/>
+	<font serif="true" sizeM="1" size="0" style="0"/>
+	<startPoint x="15.02499" y="0.97112" z="1"/>
+</element>
+</construction>
+</geogebra>
