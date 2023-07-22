@@ -21,8 +21,8 @@ https://bitbucket.org/twingsister/moodle-tests-repository/raw/master/Geogebra/Va
 #Create a .ggb for a quiz
 To adapt a GGB activity to this scheme there are some scripts that can help. You can find them in [this repository](https://github.com/TWINGSISTER/GeogebraMultilanguageTranslator). In this repo you can find [three services](https://twingsister.github.io/GeogebraMultilanguageTranslator) that will help to convert your .ggb in an activity similar to those listed here.
 #Create a GGB based quiz in Moodle
-To create a quiz in Moodle out of a .ggb file in the Geogebra>Valin>series-one>Translations (for instance from https://twingsister.github.io/Moodle-Tests-Repository/Geogebra/Valin/series-one/Translations/Calcul_distance_milieu_T5_719x464REV_Type3-one-FL.ggb) first restore [this mbz](https://twingsister.github.io/Moodle-Tests-Repository/MoodleQuiz/backup-moodle2-course-14-tobechanged-20230708-1146.mbz), 
-[alternate download](https://bitbucket.org/twingsister/moodle-tests-repository/raw/master/MoodleQuiz/backup-moodle2-course-14-tobechanged-20230708-1146.mbz). 
+To create a quiz in Moodle out of a .ggb file in the Geogebra>Valin>series-one>Translations (for instance from https://twingsister.github.io/Moodle-Tests-Repository/Geogebra/Valin/series-one/Translations/Calcul_distance_milieu_T5_719x464REV_Type3-one-FL.ggb) first restore [this mbz](https://twingsister.github.io/Moodle-Tests-Repository/MoodleQuiz/backup-moodle2-course-14-tobechanged-20230722-1115-nf.mbz), 
+[alternate download](https://bitbucket.org/twingsister/moodle-tests-repository/raw/master/MoodleQuiz/backup-moodle2-course-14-tobechanged-20230722-1115-nf.mbz). 
 
 This MBZ simply adds two quizzes named TENSIXPLUSFOURQUIZ-TOOL and TENSIXPLUSFOURQUIZ-NOTOOL. 
 One has the GGB toolbar visible the other not.
