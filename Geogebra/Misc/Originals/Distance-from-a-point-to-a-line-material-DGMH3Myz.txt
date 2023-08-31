@@ -1,0 +1,3 @@
+In this exercise to find the distance between point P=(x0;y0) and line with equation ax+by+c=0 one can  use the usual formula 
+abs(a×x0+b×y0+c)/√(x0^2+y0^2). One can also usethree dimensional  vectors and cross product. Let's call [[x1,y1,0]]→A  [[x2,y2,0]]→B  [[x0,y0,0]]→P and define the vectors B-A→v 
+P-A→u then the area of ABP is (1/2)×cross(u,v)  and the distance is abs(cross(u,v))/abs(v)
