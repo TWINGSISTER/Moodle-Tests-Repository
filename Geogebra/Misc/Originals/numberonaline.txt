@@ -1,0 +1,18 @@
+var gradex=ggbApplet.getValue("gradex")
+ggbApplet.setValue("grade",gradex);
+ggbApplet.setValue("remapoff",true);
+ggbApplet.setFixed( "A", true , false);
+ggbApplet.setFixed( "B", true , false);
+ggbApplet.setFixed( "C", true , false);
+ggbApplet.setFixed( "D", true , false);
+ggbApplet.setFixed( "E", true , false);
+var correctA=ggbApplet.getValue("correctA");
+var correctB=ggbApplet.getValue("correctB");
+var correctC=ggbApplet.getValue("correctC");
+var correctD=ggbApplet.getValue("correctD");
+var correctE=ggbApplet.getValue("correctE");
+if(!correctA) { ggbApplet.setVisible( "A1",true);}
+if(!correctB){  ggbApplet.setVisible( "B1",true);}
+if(!correctC){  ggbApplet.setVisible( "C1",true);}
+if(!correctD) { ggbApplet.setVisible( "D1",true);}
+if(!correctE){  ggbApplet.setVisible( "E1",true);}

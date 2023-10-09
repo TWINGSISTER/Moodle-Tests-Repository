@@ -1,7 +1,7 @@
 # Moodle Tests Repository
-In this project you will find a collection of activities for Moodle. 
+In this project you will find a collection of activities for Moodle. Some of them use Geogebra. they are distributed, in the MoodleQuiz folder and sub-folders, as a backup of a Moodle course as a .mbz file. The normal way of using this is to restore this course in your Moodle site as a separate course and then import activities into your course. The plugin import to a section that is archived [here](https://web.archive.org/web/20231002132300/https://moodle.org/plugins/download.php/21708/local_importtosection_moodle39_2020061403.zip) is especially useful to control these imports. See [here](https://web.archive.org/web/20231002132946/https://moodle.org/plugins/local_importtosection) for details
 
-These tests can be used with Moodle installing in your Moodle site the plugin for a modified qtype for Geogebra.
+The testshere developed with Geogebra can be used with Moodle installing in your Moodle site the plugin for a modified qtype for Geogebra.
 
 This plugin is contained in  the zip that can be downloaded from 
 [here](https://github.com/TWINGSISTER/moodle-qtype_geogebra/archive/refs/heads/twingsisterdev.zip).
