@@ -1,32 +1,27 @@
-# Moodle Tests Repository
-In this project you will find a collection of activities for Moodle. Some of them use Geogebra. They are distributed in the MoodleQuiz folder and sub-folders. They are distributed as a backup of a Moodle course i.e. as a .mbz file. The normal way of using this is to restore this course in your Moodle site as a separate course and then import activities into your course. The plugin import to a section that is archived [here](https://web.archive.org/web/20231002132300/https://moodle.org/plugins/download.php/21708/local_importtosection_moodle39_2020061403.zip) is especially useful to control these imports. See [here](https://web.archive.org/web/20231002132946/https://moodle.org/plugins/local_importtosection) for details.
+# Moodle Tests Cartridges
+In this folder you will find a collection of activities for Moodle. Some of them use Geogebra. 
+They are distributed in the MoodleQuiz folder and sub-folders. They are distributed as a backup of a Moodle course i.e. as a .mbz file.
+The normal way of using this is to restore this course in your Moodle site as a separate course and then import activities into your course. The plugin import to a section that is archived [here](https://web.archive.org/web/20231002132300/https://moodle.org/plugins/download.php/21708/local_importtosection_moodle39_2020061403.zip) is especially useful to control these imports. See [here](https://web.archive.org/web/20231002132946/https://moodle.org/plugins/local_importtosection) for details.
 
-The tests developed with Geogebra must be used installing in your Moodle site the plugin for a modified qtype for Geogebra.
-
+The most of the tests are  developed using Geogebra and must be used installing in your Moodle site the plugin for a modified qtype for Geogebra.
 This plugin is contained in  the zip that can be downloaded from 
-[here](https://github.com/TWINGSISTER/moodle-qtype_geogebra/archive/refs/heads/twingsisterdev.zip).
+[here](https://github.com/TWINGSISTER/moodle-qtype_geogeobra/archive/refs/heads/twingsisterdev.zip).
 
-In this repository there are files in different formats.
+Once that this plugin is installed you can devise your own  tests. Sample pattern empty tests are availble in this  
+[download](https://bitbucket.org/twingsister/moodle-tests-repository/raw/master/MoodleQuiz/backup-moodle2-course-14-tobechanged-20230722-1115-nf.mbz). 
 
-As explained above, the files in the mbz format can be restored within any Moodle 4.0 site. 
-The files with the .ggb extension can be used in any Geogebra question either downloading the .ggb file locally and 
-dragging it into the Geogebra quiz or linking the file from GitHub using the URL of the corresponding ggb file in the GitHub pages.
-Again, to find an example of tis process, the best option is to  download an .ubz file and see how the quiz in the course were implemented.
-
-# Referencing a .ggb
-For instance, use the URL  e.g. https://twingsister.github.io/Moodle-Tests-Repository/Geogebra/Valin/1_Multilingual/1_Reperage_plan_693x530-FLEN-FR-IT.ggb to use the ggb in the repository file at "/Geogebra/Valin/1_Multilingual/1_Reperage_plan_693x530-FLEN-FR-IT.ggb"  
-The repository has a copy on Bitbucket so you can use this URL, too,
-https://bitbucket.org/twingsister/moodle-tests-repository/raw/master/Geogebra/Valin/snap-one/Translations/Equation_de_droite_T_906x680-one-FLEN-FR-IT.ggb
-
-# Create a .ggb for a quiz
-To adapt a GGB activity to this scheme there are some scripts that can help. You can find them in [this repository](https://github.com/TWINGSISTER/GeogebraMultilanguageTranslator). In this repo you can find [three services](https://twingsister.github.io/GeogebraMultilanguageTranslator) that will help to convert your .ggb in an activity similar to those listed here.
-# Create a GGB based quiz in Moodle
-To create a quiz in Moodle out of a .ggb file in the Geogebra>Valin>series-one>Translations (for instance from https://twingsister.github.io/Moodle-Tests-Repository/Geogebra/Valin/series-one/Translations/Calcul_distance_milieu_T5_719x464REV_Type3-one-FL.ggb) first restore [this mbz](https://twingsister.github.io/Moodle-Tests-Repository/MoodleQuiz/backup-moodle2-course-14-tobechanged-20230722-1115-nf.mbz), 
-[alternate download](https://bitbucket.org/twingsister/moodle-tests-repository/raw/master/MoodleQuiz/backup-moodle2-course-14-tobechanged-20230722-1115-nf.mbz). 
-
-This MBZ simply adds two quizzes named TENSIXPLUSFOURQUIZ-TOOL and TENSIXPLUSFOURQUIZ-NOTOOL. 
-One has the GGB toolbar visible the other not.
-You  can keep both or drop one and  rename  them to WHATYOULIKE. Also you MUST rename the question bank cathergories "Default for TENSIXPLUSFOURQUIZ-[NO]TOOL" to "Default for WHATYOULIKE"
-
-This new quiz act as a wrapper around the .ggb with most of what needed to be set is already in place. You have to add  the URL of the .ggb as explained before and click the button to reload it. Second, check that the Seed is set if needed.
-If you run into problems delete all the questions from the quiz (not from the question bank!) and add them again taking a fresh copy from the question bank. 
+list of the available cartridges is:
+ 1. Empty cartridge with pattern tests for both XML import and Geogebra tests.[(download)](https://bitbucket.org/twingsister/moodle-tests-repository/raw/master/MoodleQuiz/backup-moodle2-course-14-tobechanged-20230722-1115-nf.mbz)
+    - Three types of tests for GGB are proposed. The first  two are two versions of a 6+4 scheme. One version is with GGB toolbar the other without. 
+      - The first six questions are the same across the class so you can have all the audience aligned upon the same test. 
+      - The remaining four are the same upon every entry but are different for each student. 
+      - One attempt is foreseen and the results comes out when the test is closed. You have to set the closure date. By default is set to 2050
+      - The third GGB  pattern is without GGB toolbar and is totally random. 
+All students receive ten different tests and these tests change upon re-entering the quiz. After the test the solution is immediately visible so it is suitable for individual challenge with unlimited attempts and best mark assignment.
+      - The other two pattern questions are for import XML tests.One attempt is foreseen and the results comes out when the test is closed. You have to set the closure date. By default is set to 2050
+ 1. A cartridge for the cartesian plane 
+ [(download)](https://bitbucket.org/twingsister/moodle-tests-repository/raw/master/MoodleQuiz/backup-moodle2-course-12-cartesianplane-20231120-1703-nu.mbz). 
+    - GGB Exercises are without toolbar and with possible review only after assignment closure (set to 2050 by default) 
+    - tests follows a 6+4 scheme: first six questions are the same across the class so you can have all the audience aligned upon the same test. The remaining four are the same upon every entry but are different for each student. 
+      - One attempt is foreseen
+    - Exercises for understanding coordinates, distance between two points, midpiont, vectors and their operations, line equation, loci equation (segment axis and angle bisector).
