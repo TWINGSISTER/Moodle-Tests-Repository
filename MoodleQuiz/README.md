@@ -20,7 +20,8 @@ list of the available cartridges is:
 All students receive ten different tests and these tests change upon re-entering the quiz. After the test the solution is immediately visible so it is suitable for individual challenge with unlimited attempts and best mark assignment.
       - The other two pattern questions are for import XML tests.One attempt is foreseen and the results comes out when the test is closed. You have to set the closure date. By default is set to 2050
  1. A cartridge for the cartesian plane 
- [(download)](https://bitbucket.org/twingsister/moodle-tests-repository/raw/master/MoodleQuiz/backup-moodle2-course-12-cartesianplane-20231120-1703-nu.mbz). 
+ [(download)](https://twingsister.github.io/Moodle-Tests-Repository/MoodleQuiz/backup-moodle2-course-12-cartesianplane-20231120-1703-nu.mbz). 
+[(download)](https://bitbucket.org/twingsister/moodle-tests-repository/raw/master/MoodleQuiz/backup-moodle2-course-12-cartesianplane-20231120-1703-nu.mbz)
     - GGB Exercises are without toolbar and with possible review only after assignment closure (set to 2050 by default) 
     - tests follows a 6+4 scheme: first six questions are the same across the class so you can have all the audience aligned upon the same test. The remaining four are the same upon every entry but are different for each student. 
       - One attempt is foreseen
