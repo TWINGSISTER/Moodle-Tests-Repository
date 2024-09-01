@@ -1,0 +1,13 @@
+If[FromBase[ntxt, 10] == 0,
+  "0",
+  If[FromBase[intps, 10] >= 1, 
+    UnicodeToLetter[Element[TextToUnicode[intps], 1]], 
+    If[Length[TextToUnicode[mants]]>=1+floor(abs(log(10, FromBase[ntxt, 10]))),
+     UnicodeToLetter[Element[TextToUnicode[mants], 1 + floor(abs(log(10, FromBase[ntxt, 10])))]],
+     1
+   ]
+  ]
+]
+
+
+If[FromBase[ntxt, 10] == 0, "0", If[FromBase[intps, 10] >= 1, UnicodeToLetter[Element[TextToUnicode[intps], 1]], If[Length[TextToUnicode[mants]] >= 1 + floor(abs(log(10, FromBase[ntxt, 10]))), UnicodeToLetter[Element[TextToUnicode[mants], 1 + floor(abs(log(10, FromBase[ntxt, 10])))]], "1"]]]
